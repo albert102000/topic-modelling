@@ -10,15 +10,66 @@ https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
 
 **Example of keywords gathered into topics**: 
 
-0.	
-  * march
+0.	* march
   * twitter
   * event
   * post
   * protest
-  * people tweet speech february protester june video call day april january twitt rally crowd social_media 
-1.	police officer man kill gun shoot report attack suspect video city incident accord victim arrest death people fire department car 
-2.	year company pay percent business job money market worker trade tax price bank economic economy cost deal financial american increase 
+  * people
+  * tweet
+  * speech 
+  * february
+  * protester
+  * june 
+  * video 
+  * call
+  * day 
+  * april 
+  * january 
+  * twitter 
+  * rally 
+  * crowd 
+  * social_media 
+1.	* police
+   * officer 
+   * man 
+   * kill 
+   * gun 
+   * shoot 
+   * report 
+   * attack 
+   * suspect 
+   * video 
+   * city 
+   * incident 
+   * accord 
+   * victim 
+   * arrest 
+   * death 
+   * people 
+   * fire 
+   * department 
+   * car 
+2.	* year 
+   * company 
+   * pay 
+   * percent
+   * business 
+   * job 
+   * money 
+   * market 
+   * worker 
+   * trade 
+   * tax 
+   * price 
+   * bank 
+   * economic 
+   * economy 
+   * cost 
+   * deal 
+   * financial 
+   * american 
+   * increase 
 3.	school woman student black university white community man college people group education church public campus high member gay christian american 
 4.	city people water area home resident park local town day building fire state york california year live storm road center 
 5.	news breitbart medium time fox report story show claim follow twitter host article reporter york interview write radio network conservative 
