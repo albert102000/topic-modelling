@@ -1,5 +1,13 @@
 # topic-modelling
 
+**Dataset:**
+
+https://www.kaggle.com/snapcrack/all-the-news
+
+**Source:**
+
+https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
+
 **Example of keywords gathered into topics**: 
 
 0.	march twitter event post protest people tweet speech february protester june video call day april january twitt rally crowd social_media 
