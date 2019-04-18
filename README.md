@@ -1,6 +1,6 @@
 # topic-modelling
 
-# Example of keywords gathered into topics: 
+**Example of keywords gathered into topics**: 
 
 0.		march twitter event post protest people tweet speech february protester june video call day april january twitt rally crowd social_media 
 1.		police officer man kill gun shoot report attack suspect video city incident accord victim arrest death people fire department car 
